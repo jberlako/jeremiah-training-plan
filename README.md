@@ -33,8 +33,8 @@ workout.
 
 As a beginning lifter, you'll be able to make strength gains quickly. We'll take
 advantage of this by making sure that you're in a slight calorie surplus. This
-ensure that you're recovering and building muscle at your maximum capacity while
-learning these compound lifts.
+ensures that you're recovering and building muscle at your maximum capacity 
+while learning these compound lifts.
 
 To ensure that we're in a calorie surplus, we're going to start tracking your
 nutrient intake. Choose a food tracking app that you like and start keeping
